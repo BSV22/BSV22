@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👋 Hi, I'm Basavakiran Shivanand Deshmukh
+
+🎓 Undergraduate Student at **IIT Kanpur**  
+💡 Passionate about technology, innovation, and lifelong learning
 
 <!--
 **BSV22/BSV22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Thank you for checking out my profile!
