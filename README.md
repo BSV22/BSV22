@@ -85,23 +85,15 @@ A full-stack mess management system developed as part of a collaborative project
 
 ---
 
-### Memory-Efficient Versioned File Indexer
-
-A systems-oriented project focused on efficient file indexing and version management.
-
-**Tech:** `C++` `Data Structures` `File Systems`
-
-[Repository](https://github.com/BSV22/Memory-Efficient-Versioned-File-Indexer)
-
----
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSV22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSV22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://badges.pufler.dev/repos/BSV22?style=for-the-badge&label=Repositories" />
+  <img src="https://img.shields.io/github/stars/BSV22?style=for-the-badge&label=Stars" />
+  <img src="https://img.shields.io/github/followers/BSV22?style=for-the-badge&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=BSV22&style=for-the-badge&label=Profile%20Views" />
 </p>
-
 ---
 
 ## Contribution Streak
@@ -112,10 +104,12 @@ A systems-oriented project focused on efficient file indexing and version manage
 
 ---
 
-## Contribution Activity
+## Repository Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BSV22&theme=tokyo-night&hide_border=true" />
+  <img src="https://img.shields.io/github/commit-activity/y/BSV22/CS253-Mess-Management-System?style=for-the-badge&label=Mess%20Management%20Commits" />
+  <img src="https://img.shields.io/github/forks/BSV22/CS253-Mess-Management-System?style=for-the-badge&label=Forks" />
+  <img src="https://img.shields.io/github/stars/BSV22/CS253-Mess-Management-System?style=for-the-badge&label=Stars" />
 </p>
 
 ---
@@ -131,29 +125,23 @@ I enjoy working on collaborative projects and contributing to repositories beyon
 
 ---
 
-## Repository Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/BSV22/CS253-Mess-Management-System?style=for-the-badge&label=Forks" />
-  <img src="https://img.shields.io/github/stars/BSV22/CS253-Mess-Management-System?style=for-the-badge&label=Stars" />
-  <img src="https://img.shields.io/github/watchers/BSV22/CS253-Mess-Management-System?style=for-the-badge&label=Watchers" />
+  <img src="https://img.shields.io/github/stars/BSV22?style=for-the-badge&label=Stars" />
+  <img src="https://img.shields.io/github/followers/BSV22?style=for-the-badge&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=BSV22&style=for-the-badge&label=Profile%20Views" />
 </p>
 
 ---
 
-## GitHub Achievements
+## Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BSV22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://streak-stats.demolab.com?user=BSV22&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSV22&theme=tokyonight" />
-</p>
 
 ---
 
